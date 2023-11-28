@@ -1,0 +1,452 @@
+[
+  {
+    "member": "Person 1",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Director of Surgical Oncology",
+    "primaryState": "WI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 2",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Clinical Professor",
+    "primaryState": "CANADA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 3",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Chief, Veterans Hospital Hematology-Oncology Section | Staff Physician Hematology/Oncology",
+    "primaryState": "IN",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 4",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Oncologist",
+    "primaryState": "WI",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 5",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Radiation Oncologist",
+    "primaryState": "PA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 6",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "WI",
+    "priority": "High"
+  },
+  {
+    "member": "Person 7",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Leader - Lymphoma Disease Group",
+    "primaryState": "OR",
+    "priority": "High"
+  },
+  {
+    "member": "Person 8",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "WI",
+    "priority": "High"
+  },
+  {
+    "member": "Person 9",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Professor of Gynecologic Oncology, Director of Gynecologic Cancer Research",
+    "primaryState": "PA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 10",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Director - Phase I & GI Oncology Programs | Co-leader - Developmental Therapeutics Program",
+    "primaryState": "IN",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 11",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Director - Myeloma and Multi-Disciplinary Amyloid Program",
+    "primaryState": "OR",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 12",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "WI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 13",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Medical Oncologist",
+    "primaryState": "TX",
+    "priority": "High"
+  },
+  {
+    "member": "Person 14",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Director of Medical Oncology; Inpatient Consult Service",
+    "primaryState": "CT",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 15",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Radiation Oncologist",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 16",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "ENT-otolaryngologist",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 17",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Professor of Radiation Oncology",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 18",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Professor of Medical Oncology",
+    "primaryState": "IN",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 19",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Associate Professor of Hematology / Oncology",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 20",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Clinical Associate Professor of Dermatology & Internal Medicine",
+    "primaryState": "MI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 21",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Executive Director",
+    "primaryState": "FL",
+    "priority": "High"
+  },
+  {
+    "member": "Person 22",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Associate Clinical Professor, Department of Medical Oncology & Therapeutics Research",
+    "primaryState": "CA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 23",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Surgical Oncologist",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 24",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Director - GI Cancer Research Program | Associate Director - Drug Development Program",
+    "primaryState": "TN",
+    "priority": "High"
+  },
+  {
+    "member": "Person 25",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Assistant Clinical Professor - Medical Oncology & Therapeutics Research",
+    "primaryState": "CA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 26",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Medical Director for Clincal Research Operations",
+    "primaryState": "CA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 27",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Medical Director of Early Phase Cancer Research | Oncologist / Hematologist",
+    "primaryState": "WI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 28",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Clinical Medical Director",
+    "primaryState": "OR",
+    "priority": "High"
+  },
+  {
+    "member": "Person 29",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Co-Director of UPMC Pancreatic Center of Excellence | Associate Professor of Medicine",
+    "primaryState": "PA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 30",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Surgical Oncologist",
+    "primaryState": "WI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 31",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Medical Director of Radiation Oncology",
+    "primaryState": "IN",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 32",
+    "influencerType": "Type D",
+    "indicationCategory": "Bladder",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "WI",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 33",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Medical Director of Radiation Oncology",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 34",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Medical Director and Chair of Radiation Oncology | President of Medical Staff",
+    "primaryState": "PA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 35",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Medical Director and Chair of Rad Onc | Associate Pathway Director | Deputy Director Rad Services",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 36",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "IN",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 37",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Assistant Professor of Medicine",
+    "primaryState": "IL",
+    "priority": "High"
+  },
+  {
+    "member": "Person 38",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Professor of Oncology & Pharmacology & Toxicology, Professor of Urology",
+    "primaryState": "IN",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 39",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Associate Professor",
+    "primaryState": "CT",
+    "priority": "High"
+  },
+  {
+    "member": "Person 40",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Medical Oncologist",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 41",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Associate Director - Adult Neuro-Oncology Program | Associate Professor",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 42",
+    "influencerType": "Type D",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Medical Oncologist",
+    "primaryState": "CA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 43",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Radiation Oncologist",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 44",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Director - Melanoma Center | Professor of Medicine & Dermatology & Clinical and Translational Science",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 45",
+    "influencerType": "Type D",
+    "indicationCategory": "Melanoma",
+    "affiliation": "Tiktok",
+    "affiliationPosition": "Deputy Director of Clinical Services | Chair of Oncology Program",
+    "primaryState": "PA",
+    "priority": "Low"
+  },
+  {
+    "member": "Person 46",
+    "influencerType": "Type D",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Twitter",
+    "affiliationPosition": "Oncologist / Hematologist",
+    "primaryState": "PA",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 47",
+    "influencerType": "Type D",
+    "indicationCategory": "Renal Cell",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Professor of Medicine",
+    "primaryState": "OR",
+    "priority": "High"
+  },
+  {
+    "member": "Person 48",
+    "influencerType": "Type A",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Instagram",
+    "affiliationPosition": "Professor of Medicine",
+    "primaryState": "CT",
+    "priority": "Medium"
+  },
+  {
+    "member": "Person 49",
+    "influencerType": "Type A",
+    "indicationCategory": "Multiple Myeloma",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Hematologist / Oncologist",
+    "primaryState": "PA",
+    "priority": "High"
+  },
+  {
+    "member": "Person 50",
+    "influencerType": "Type A",
+    "indicationCategory": "Pancreatic",
+    "affiliation": "Facebook",
+    "affiliationPosition": "Radiation Oncologist",
+    "primaryState": "PA",
+    "priority": "High"
+  }
+]
